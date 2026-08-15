@@ -76,16 +76,10 @@
 
 <br/>
 
----
 
 
-## 📈 Contribution Activity
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aj976&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=C9C9C9"/>
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
