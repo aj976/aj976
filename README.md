@@ -6,15 +6,17 @@
 <br/>
 
 <br/><br/>
+## Profiles
 
 <a href="https://linkedin.com/in/aatmikjoshi"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aatmik976@gmail.com"><img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/aj976/"><img src="https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
 <br/><br/>
 
 </div>
 
-<br/>
+
 
 ---
 
@@ -40,21 +42,12 @@
 
 </div>
 
-<br/>
 
 ---
 
-## 💻 Coding Profiles
 
-<div align="center">
 
-<a href="https://leetcode.com/u/aj976/"><img src="https://img.shields.io/badge/LeetCode-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
-</div>
-
-<br/>
-
----
 
 ## 📊 GitHub Analytics
 
