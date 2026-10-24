@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=AATMIK%20JOSHI&fontSize=60&fontColor=B39DDB&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems+%40+Enterprise+Grade;Crafting+AI%2FML+Products+That+Ship;Full+Stack+Engineer+%7C+Cybersecurity+Minor;Vector+Databases+%7C+RAG+%7C+ML+Governance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems+%40+Enterprise+Grade;Crafting+AI%2FML+Products+That+Ship;Full+Stack+Engineer+%7C+Cybersecurity+Specialization;Vector+Databases+%7C+RAG+%7C+ML+Governance" alt="Typing SVG" />
 
 <br/>
 
