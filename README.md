@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=AATMIK%20JOSHI&fontSize=60&fontColor=B39DDB&animation=fadeIn&fontAlignY=38&desc=Aspiring Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=AATMIK%20JOSHI&fontSize=60&fontColor=B39DDB&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="Aatmik Joshi banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems+%40+Enterprise+Grade;Crafting+AI%2FML+Products+That+Ship; Full+Stack+Engineer+%7C+Cybersecurity+Specialization;Vector+Databases+%7C+RAG+%7C+ML+Governance" alt="Typing SVG" />
 
 <br/>
 
@@ -12,10 +11,6 @@
 <a href="mailto:aatmik976@gmail.com"><img src="https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aj976&style=flat-square&color=8a2be2&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/aj976?style=flat-square&color=6c63ff&labelColor=1a1a2e&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/aj976?style=flat-square&color=7b68ee&labelColor=1a1a2e&label=STARS"/>
 
 </div>
 
